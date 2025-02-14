@@ -19,7 +19,7 @@ Atuo como desenvolvedor front-end, mas com intenção e estudos dedicados a abra
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" />
 </p>
 
-> Tenho interesse em estudar em breve:
+> Tenho interesse em aprender em breve:
 <p align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
 </p>
